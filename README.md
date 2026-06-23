@@ -1,16 +1,11 @@
-## Hi there 👋
+<h1xHi, I'm Sonya, a Cybersecurity, IAM Azure Associate </a>0</h1>
 
-<!--
-**mssonya88/Mssonya88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<b>Microsoft Azure Entra IDc/b>
+[Creatiog_User's_in_Entra_ I0](
+[Sloud_ Preyisioning_-_ P2_Licensiog]0
+[Role_Assignments]0
+[GrouR Assigoments]./)
+[Identity_Lifesycle]().
+[Audit_Logs]0
+[Sig0.in_1ogsl0)
+[Authentication]()
